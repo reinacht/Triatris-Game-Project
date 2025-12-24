@@ -9,5 +9,6 @@ Game mechanism:
 File Exe: You can just download Triatris.exe in dist  
 File Source Code: Main resource if you wanna rebuild
 
-NOTE : Move out each folder into singular folder first. So that The file "File Exe" and "File Source Code" are independent.  
-NOTE_BUG : There is a bug in file .exe, which is the score isnt saved when the game is closed. So, that the score will be 0 again if u open the game.
+NOTE : Move out each folder into singular folder first. So that The file "File Exe" and "File Source Code" are independent.    
+   
+NOTE_BUG : There is a bug in file .exe, which is the score isnt saved when the game is closed. So, that the score will be 0 again if u open the game. Please build your own Triatris.exe from the instructions in File Source Code (read the **command.txt**)
